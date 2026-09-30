@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParteFinalProjeto_ENIAC</string>
+
+    <string name="aviso_whatsapp">Seu pedido será enviado e você poderá fazer o pagamento por Whatsapp.\nPor favor, envie a mensagem automática ao ser redirecionado.</string>
+</resources>
