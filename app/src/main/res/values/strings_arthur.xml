@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_nome">LL Águas</string>
+    <string name="hint_email_usuario">E-mail ou usuário</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="hint_confirmar_senha">Confirmar senha</string>
+    <string name="hint_nome">Nome completo</string>
+    <string name="hint_telefone">Telefone</string>
+    <string name="hint_endereco">Endereço</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="link_criar_conta">Criar conta</string>
+    <string name="titulo_cadastro">Criar conta — LL Águas</string>
+    <string name="placeholder_tela_principal">Tela principal\n(desenvolvida pelo Luiz)</string>
+</resources>
